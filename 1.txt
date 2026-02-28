@@ -1,0 +1,1 @@
+Trong quá trình thực hiện đề tài, nhóm đã cố gắng vận dụng các kiến thức đã học về lập trình, thuật toán và cơ sở dữ liệu để xây dựng một chương trình có khả năng phân tích văn bản, thống kê từ khóa một cách chính xác và hiệu quả. Mặc dù đã rất nỗ lực, nhưng do thời gian và kinh nghiệm còn hạn chế, bài làm khó tránh khỏi những thiếu sót.

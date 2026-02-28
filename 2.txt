@@ -1,0 +1,16 @@
+
+Text Analysis Project Sample
+
+Text analysis is an important part of computer science and data processing.
+It helps people understand large amounts of text quickly and effectively.
+By counting word frequency, we can discover the most important keywords in a document.
+
+This sample text is written in English to avoid encoding problems.
+The program reads a text file, processes the content, and counts how many times each word appears.
+Words such as analysis, text, and program may appear many times.
+
+This project is suitable for students who are learning Python programming.
+It uses basic techniques such as file reading, string processing, and data visualization.
+With a simple graphical user interface, users can easily interact with the program.
+
+In conclusion, text analysis is a useful and practical application of Python.
